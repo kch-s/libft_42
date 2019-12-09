@@ -2,7 +2,7 @@ Ce premier projet en tant qu'étudiant de 42 va vous faire consolider vos acquis
 Vous allez recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres.        
 fonctions utilitaires que vous réutiliserez tout au long de votre cursus.                                
 
-##titre __Fonctions de la libc__
+##titre__Fonctions de la libc__
 • memset
 • bzero
 • memcpy
