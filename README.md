@@ -2,7 +2,7 @@ Ce premier projet en tant qu'étudiant de 42 va vous faire consolider vos acquis
 Vous allez recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres.        
 fonctions utilitaires que vous réutiliserez tout au long de votre cursus.                                
 
-##titre__Fonctions de la libc__
+__Fonctions de la libc__  
 • memset
 • bzero
 • memcpy
@@ -32,7 +32,7 @@ fonctions utilitaires que vous réutiliserez tout au long de votre cursus.
 • toupper
 • tolower
 
- - __Fonctions supplémentaires__
+ __Fonctions supplémentaires__  
  
  • ft_memalloc
  • ft_memdel
@@ -59,7 +59,7 @@ fonctions utilitaires que vous réutiliserez tout au long de votre cursus.
  • ft_putendl_fd
  • ft_putnbr_fd
  
- - __Fonctions Bonus__
+__Fonctions Bonus__  
  
  • ft_lstnew
  • ft_lstdelone
